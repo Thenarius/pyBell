@@ -5,7 +5,7 @@ Core program:
 
 Planned features:
 - More Chimes
-	* Plans: Angelus bells (6am, noon, and 6pm), Ave Maria (alternative to the Westminster chimes)...
+	* Plans: Angelus bells (6am, noon, and 6pm), Ave Maria (alternative to the Westminster chimes), Blessed Assurance (another alternative)...
 - Custom Schedule
 - Volume Control
 - An interface, for all of this (probably text).
